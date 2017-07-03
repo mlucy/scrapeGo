@@ -36,7 +36,7 @@
 (;AB[ab][ae][bc][bd][be]AW[ad][bf][cc][cd][ce][cf][da][db]C[problem 35])
 (;AB[ae][bc][bd][be][ca]AW[aa][ac][ad][bf][cd][ce][cf][da][db][dc]C[problem 36])
 (;AB[aa][ae][ba][bc][bd][be]AW[ab][ad][bf][cc][cd][ce][cf][da][db]C[problem 37])
-(;AB[da][dc][de][ec][ed][ee][fb]AW[eb][ef][fd][fe][fg][ga][gb][gc]C[problem 38])
+(;AB[aa][ac][ae][bc][bd][be][cb]AW[bb][bf][cd][ce][cg][da][db][dc]C[problem 38])
 (;AB[ac][ae][ba][bc][bd][be][cb][db]AW[ab][bb][bf][cc][cd][ce][cf][da][dc][ea][eb][ec]C[problem 39])
 (;AB[ac][ba][bc][bd][be][ca][cb][db]AW[ab][bb][bf][bh][cc][ce][cf][da][dc][ea][eb][ec]C[problem 40])
 (;AB[ba][bc][bd][ca][cc][db]AW[be][cd][ce][da][dc][ea][eb][ec]C[problem 41])
